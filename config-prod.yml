@@ -1,0 +1,4 @@
+label: main 
+profile: prod
+config: 
+  info: main-prod1
